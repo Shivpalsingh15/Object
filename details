@@ -1,0 +1,28 @@
+Array:
+
+
+=>In JavaScript, an array is a data structure that is used to store and organize multiple values. Arrays can hold various data types, including numbers, strings, objects, and even other arrays.
+
+Object:
+
+=>In JavaScript, an object is a complex data type that allows you to store and organize data in a key-value pair format. Objects are used to represent real-world entities, and they can contain properties and methods. 
+
+What is an Object Literal?
+
+=>An object literal is a way to create and define an object in JavaScript using curly braces {}. It's like a container that can hold related information.
+
+let person = {
+  name: 'John',
+  age: 30,
+  occupation: 'Engineer'
+};
+
+You can access the properties of an object using dot notation or square bracket notation:
+
+console.log(person.name); // Output: 'John'
+console.log(person['age']); // Output: 30
+
+You can also add new properties or modify existing ones:
+
+person.city = 'New York'; // Adding a new property
+person.age = 31; // Modifying an existing property
