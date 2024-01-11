@@ -1,4 +1,7 @@
 Array:
+note: primitive & non = primitive data type difference 
+primitive data types are refered by their values
+non - primitive data types are refered by their reference / address,
 
 
 =>In JavaScript, an array is a data structure that is used to store and organize multiple values. Arrays can hold various data types, including numbers, strings, objects, and even other arrays.
